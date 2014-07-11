@@ -6,7 +6,7 @@
 # catalog-version 1.04
 Name:		texlive-pst-perspective
 Version:	1.04
-Release:	1
+Release:	2
 Summary:	Draw perspective views using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-perspective
