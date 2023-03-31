@@ -1,6 +1,6 @@
 Name:		texlive-pst-perspective
 Version:	39585
-Release:	1
+Release:	2
 Summary:	Draw perspective views using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-perspective
