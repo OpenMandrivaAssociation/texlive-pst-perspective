@@ -3,7 +3,7 @@ Version:	39585
 Release:	2
 Summary:	Draw perspective views using pstricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-perspective
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-perspective
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-perspective.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-perspective.doc.r%{version}.tar.xz
